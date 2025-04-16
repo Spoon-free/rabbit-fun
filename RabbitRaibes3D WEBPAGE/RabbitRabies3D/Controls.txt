@@ -1,0 +1,4 @@
+Controls:
+Forwards: Right Arrow Key
+Backwards: Left Arrow Key
+Jump: Spacebare
